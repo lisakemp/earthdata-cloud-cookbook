@@ -3,7 +3,7 @@ title: "MATLAB Access Single NASA EarthData L2 NetCDF"
 editor: visual
 ---
 
-This tutorial was written by Erin Robinson, Luis Lopez (NASA Openscapes) and Cedric Wannaz, Lisa Kempler (Mathworks).
+This tutorial was written by Erin Robinson, Luis Lopez (NASA Openscapes) and Cedric Wannaz, Lisa Kempler (MathWorks).
 
 ## Launch MATLAB in 2i2c JupyterHub
 
